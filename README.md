@@ -1,8 +1,11 @@
 # REST-API
 What is an REST API ?
+A REST API, also known as a RESTful API, is a simple, uniform interface that is used to make data, content, algorithms, media, and other digital resources available through web URLs.
 
 
 <img width="665" alt="image" src="https://github.com/sonu318/REST-API/assets/91945935/528b37b2-0064-41a4-b820-675a6429206f">
+
+
 
 
 
